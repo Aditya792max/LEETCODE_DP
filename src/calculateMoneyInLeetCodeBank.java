@@ -24,7 +24,7 @@
 
 import java.util.*;
 
-public class oct25 {
+public class calculateMoneyInLeetCodeBank {
 
     public static int totalMoney(int n) {
         int ans = 0;
