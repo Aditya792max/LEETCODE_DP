@@ -1,5 +1,5 @@
 /***
- *3321. Find X-Sum of All K-Long Subarrays I
+ *3320. Find X-Sum of All K-Long Subarrays I
  *You are given an array nums of n integers and two integers k and x.
  *
  * The x-sum of an array is calculated by the following procedure:
